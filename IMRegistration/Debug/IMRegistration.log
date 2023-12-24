@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/5/25 18:14:31。
+     1>项目“C:\Users\zzw\Desktop\图像配准\车轮缺陷提取\IMRegistration\IMRegistration\IMRegistration.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\zzw\Desktop\图像配准\车轮缺陷提取\IMRegistration\Debug\IMRegistration.exe" /INCREMENTAL /NOLOGO opencv_ml2411d.lib opencv_calib3d2411d.lib opencv_contrib2411d.lib opencv_core2411d.lib opencv_features2d2411d.lib opencv_flann2411d.lib opencv_gpu2411d.lib opencv_highgui2411d.lib opencv_imgproc2411d.lib opencv_legacy2411d.lib opencv_objdetect2411d.lib opencv_ts2411d.lib opencv_video2411d.lib opencv_nonfree2411d.lib opencv_ocl2411d.lib opencv_photo2411d.lib opencv_stitching2411d.lib opencv_superres2411d.lib opencv_videostab2411d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\zzw\Desktop\图像配准\车轮缺陷提取\IMRegistration\Debug\IMRegistration.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\zzw\Desktop\图像配准\车轮缺陷提取\IMRegistration\Debug\IMRegistration.lib" /MACHINE:X86 Debug\Defect_extraction.obj
+         Debug\Entropy.obj
+         Debug\main.obj
+         Debug\Registration_geometric.obj
+         Debug\Registration_Hough.obj
+         Debug\RemoveSmallRegion.obj
+         IMRegistration.vcxproj -> C:\Users\zzw\Desktop\图像配准\车轮缺陷提取\IMRegistration\Debug\IMRegistration.exe
+     1>已完成生成项目“C:\Users\zzw\Desktop\图像配准\车轮缺陷提取\IMRegistration\IMRegistration\IMRegistration.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.65
